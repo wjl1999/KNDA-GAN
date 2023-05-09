@@ -1,5 +1,5 @@
 # KNDA-GAN
-Open codes for KNDA-GAN
+Open codes for KNDA-GAN would coming soon
 # Code
 ## Train
 python train.py --dataroot yourDataroot --name nameThisTraining \
